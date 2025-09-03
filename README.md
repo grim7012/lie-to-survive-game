@@ -1,11 +1,29 @@
+# 🎭 Lie to Survive
 
-  # Lie to Survive Game UI
+A real-time multiplayer social deduction game where players must give hints, spot the liar, and survive!  
+Built with **React + Vite (frontend)** and **Node.js + Express + Socket.IO (backend)**.
 
-  This is a code bundle for Lie to Survive Game UI. The original project is available at https://www.figma.com/design/ZK3bk4vLQobWmEIqWSXRQX/Lie-to-Survive-Game-UI.
+---
 
-  ## Running the code
+## 🚀 Features
+- Multiplayer game with rooms and lobby system  
+- Real-time communication using Socket.IO  
+- Host-controlled game start  
+- Secret word assignment & random liar selection  
+- Phases: Lobby → Hint Sharing → Voting → Score Reveal  
+- Modern UI with Radix UI + Tailwind  
 
-  Run `npm i` to install the dependencies.
+---
 
-  Run `npm run dev` to start the development server.
-  
+## 🛠️ Tech Stack
+### Frontend
+- React 18 + Vite
+- TailwindCSS + Radix UI
+- Socket.IO client
+
+### Backend
+- Node.js
+- Express
+- Socket.IO
+
+---
