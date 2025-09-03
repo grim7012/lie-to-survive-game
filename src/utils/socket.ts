@@ -17,7 +17,7 @@ class SocketService {
       return this.socket;
     }
 
-    this.socket = io('http://localhost:4000', {
+    this.socket = io('https://lie-to-survive-game.onrender.com', {
       transports: ['websocket', 'polling'],
       reconnection: true,
       reconnectionAttempts: 5,
