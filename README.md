@@ -1,7 +1,7 @@
 # 🎭 Lie to Survive
 
 A real-time multiplayer social deduction game where players must give hints, spot the liar, and survive!  
-Built with **React + Vite (frontend)** and **Node.js + Express + Socket.IO (backend)**.
+Built with **React + Vite + Tailwind (frontend)** and **Node.js + Express + Socket.IO (backend)**.
 
 ---
 
