@@ -5,7 +5,6 @@ Built with **React + Vite + Tailwind (frontend)** and **Node.js + Express + Sock
 
 ---
 
-
 ### Link - https://lie-to-survive-game.vercel.app/
 
 ## 🚀 Features
